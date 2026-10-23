@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/anmolpatil83/">
   <img src="https://img.shields.io/badge/Available_for-Hire-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for hire" />
 </a>
-<a href="https://www.upwork.com/freelancers/~0113a93c7abf368e42?mp_source=share">
+<a href="https://www.upwork.com/freelancers/~0113a93c7abf368e42">
   <img src="https://img.shields.io/badge/Available_for-Freelance-58A6FF?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for freelance" />
 </a>
 
@@ -112,6 +112,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anmolpatil83-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolpatil83/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0113a93c7abf368e42)
 [![Instagram](https://img.shields.io/badge/Instagram-odoo.era-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odoo.era)
 
 </div>
