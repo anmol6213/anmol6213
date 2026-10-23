@@ -85,11 +85,11 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol6213&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&border_color=30363D" alt="anmol6213's stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=anmol6213&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=anmol6213&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol6213&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol6213&layout=compact&hide=jupyter%20notebook&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="top langs" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anmol6213&theme=github_dark" alt="profile details" />
 </div>
 
