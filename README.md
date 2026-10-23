@@ -11,10 +11,27 @@
 
 ## 👋 About Me
 
-- 🐉 **DebugDragon** — I love hunting bugs and automating boring business workflows
+- 🐉 **DebugDragon**: I love hunting bugs and automating boring business workflows
 - 🏢 Odoo developer: custom modules, POS customizations, automation rules, QWeb reports
+- 🛒 Published free modules on the **Odoo Apps Store**
 - 📍 Dhule, Maharashtra, India
 - 🌱 Exploring AI, React Native & LLM-powered apps
+
+---
+
+## 🧩 Odoo Apps Store
+
+<div align="center">
+
+[![Odoo Apps](https://img.shields.io/badge/Odoo_Apps_Store-Anmol_Patil-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://apps.odoo.com/apps/modules/browse?author=Anmol%20Patil)
+
+</div>
+
+| Module | Version | Description |
+|---|---|---|
+| [**CBM Converter**](https://apps.odoo.com/apps/modules/19.0/cbm_converter) | 19.0 · Free | Auto-convert CBM quantity to Pieces for construction materials |
+| [**QR Code & Stock Availability Checker**](https://apps.odoo.com/apps/modules/19.0/website_product_qr_portal) | 19.0 · Free | Product QR codes + live stock availability on the product page |
+| [**Slack Attendance Integration**](https://apps.odoo.com/apps/modules/19.0/slack_attendance_integration) | 19.0 · Free | Employee attendance via Slack slash commands with AI summaries |
 
 ---
 
@@ -38,13 +55,6 @@
   </a>
 </div>
 
-| Project | What it does |
-|---|---|
-| **OdoosApps** | Odoo HR attendance with Slack integration: check-in/out, breaks, working hours via slash commands |
-| **odoo_pos_custom_button** | POS "Milk Price" button that auto-calculates quantity from price |
-| **Calories-Tracker** | React Native + Expo app with AI food-image calorie estimation |
-| **CBM-to-Pieces-converter** | Auto-calculates pieces from quantity for AAC blocks & similar products |
-
 ---
 
 ## 🐍 Watch the snake eat my contributions
@@ -66,7 +76,6 @@
 
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge&logoColor=white" alt="QWeb" />
 
 </div>
 
