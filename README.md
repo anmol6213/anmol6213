@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3FB950&random=false&width=700&lines=%24+whoami+%3E+Anmol+Patil;Odoo+Developer+%7C+Python+%7C+JavaScript;Building+ERP+automations+%26+AI+apps;DebugDragon+%F0%9F%90%89)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=anmol6213&style=flat-square&color=0D1117&label=Profile+views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=anmol6213&style=flat-square&color=0D1117&label=Profile+views&base=800" alt="views" />
 <img src="https://img.shields.io/github/followers/anmol6213?style=flat-square&color=0D1117&label=Followers" alt="followers" />
 
 </div>
