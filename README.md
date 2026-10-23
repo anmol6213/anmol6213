@@ -86,6 +86,8 @@
 
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge&logoColor=white" alt="QWeb" />
+
 
 </div>
 
