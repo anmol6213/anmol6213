@@ -5,6 +5,15 @@
 <img src="https://komarev.com/ghpvc/?username=anmol6213&style=flat-square&color=0D1117&label=Profile+views&base=800" alt="views" />
 <img src="https://img.shields.io/github/followers/anmol6213?style=flat-square&color=0D1117&label=Followers" alt="followers" />
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/anmolpatil83/">
+  <img src="https://img.shields.io/badge/Available_for-Hire-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for hire" />
+</a>
+<a href="https://www.instagram.com/odoo.era">
+  <img src="https://img.shields.io/badge/Available_for-Freelance-58A6FF?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for freelance" />
+</a>
+
 </div>
 
 ---
@@ -14,6 +23,7 @@
 - 🐉 **DebugDragon**: I love hunting bugs and automating boring business workflows
 - 🏢 Odoo developer: custom modules, POS customizations, automation rules, QWeb reports
 - 🛒 Published free modules on the **Odoo Apps Store**
+- 💼 Open to **full-time roles** and **freelance Odoo projects**
 - 📍 Dhule, Maharashtra, India
 - 🌱 Exploring AI, React Native & LLM-powered apps
 
@@ -76,7 +86,6 @@
 
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge&logoColor=white" alt="QWeb" />
 
 </div>
 
